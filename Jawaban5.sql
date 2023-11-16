@@ -1,0 +1,1 @@
+select * from tp_dosen, tr_matakuliah;
